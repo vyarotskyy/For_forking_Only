@@ -2,3 +2,6 @@ Some text data
 
 hello
 dear
+
+Hi
+stranger
